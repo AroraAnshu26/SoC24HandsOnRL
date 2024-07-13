@@ -1,6 +1,8 @@
 # SoC24HandsOnRL
-This is my GitHub repo for Hands on RL
-Here Ive added all the assignments done, \\
+This is my GitHub repo for Hands-On RL
+Here Ive added all the assignments done, \
 
-Assignment1- learning basic coding and applying basic concepts of RL
-Assignment2 - coding a game- the game of snake, its a good one- you should play it
+Week1- learning basic coding and applying basic concepts of RL \
+Week2 - coding the game of snake \
+Week3 - testing various strategies for N-armed bandits
+Week4 - training an agent to play the game mountain car
